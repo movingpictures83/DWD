@@ -1,0 +1,2 @@
+Prefix plugins/DWD/example/
+Plugin DWD inputfile parameters.train.txt outputfile output.rds
